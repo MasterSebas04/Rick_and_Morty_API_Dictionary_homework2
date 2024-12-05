@@ -1,0 +1,2 @@
+# Rick_and_Morty_API_Dictionary_homework2
+Created with CodeSandbox
